@@ -1,0 +1,32 @@
+project- bank_managment_system
+project is created by: lokesh singh
+
+
+# welcome to suprime bank
+# 1.open acount ->insert
+# 2.cash deposit->update
+# 3.cash withdrawl->update
+# 4.acount details->fatch
+# 5.exit
+# run infinite program
+
+main point about the project 
+
+->Whole project is created base on tkinter(gui)
+
+->In this project you can create new account with the help of gui(tkinter)
+
+->In this project you can deposit cash with the help of gui(tkinter) through 
+create new gui interface for deposit related info
+
+->In this project you can withdrawl cash with the help of gui(tkinter) through 
+create new gui interface for withdrawl related info.
+
+->In this project you can fatch information about any account by enter your name
+through create new gui interface for profile information.
+
+-> In this project all interfaces contain exit or quit button to quit whole project
+until you manually close project it is impotent to run project infinite time.
+
+->In this project sql localhost database server is connected to project gui interface 
+to fatch , update and create new acount or info. in to sql database 
